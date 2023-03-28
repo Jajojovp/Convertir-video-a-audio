@@ -1,1 +1,2 @@
 # Convertir-video-a-audio
+Este código crea una función llamada download_video_as_audio que acepta una URL de video como argumento. La función usa la configuración proporcionada en ydl_opts para descargar el audio del video y guardarlo en un archivo con el nombre del video. Cuando se ejecuta el script, solicitará al usuario que ingrese la URL del video de YouTube y luego extraerá el audio utilizando la función download_video_as_audio.
